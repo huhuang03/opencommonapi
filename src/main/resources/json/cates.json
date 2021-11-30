@@ -1,0 +1,2825 @@
+{
+  "code": 0,
+  "msg": "",
+  "data": {
+    "list": [
+      {
+        "id": 1,
+        "cateName": "成衣加工",
+        "parentId": null,
+        "companyType": null,
+        "level": null,
+        "sort": null,
+        "cateList": [
+          {
+            "id": 1,
+            "cateName": "梭织服装",
+            "parentId": 0,
+            "companyType": 1,
+            "level": 1,
+            "sort": 1,
+            "cateList": [
+              {
+                "id": 2,
+                "cateName": "棉/羽绒服装",
+                "parentId": 1,
+                "companyType": 1,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 3,
+                "cateName": "真丝/雪纺服装",
+                "parentId": 1,
+                "companyType": 1,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 4,
+                "cateName": "西服西裤",
+                "parentId": 1,
+                "companyType": 1,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 5,
+                "cateName": "夹克风衣",
+                "parentId": 1,
+                "companyType": 1,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 6,
+                "cateName": "毛呢服装",
+                "parentId": 1,
+                "companyType": 1,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              },
+              {
+                "id": 7,
+                "cateName": "梭织运动/户外服装",
+                "parentId": 1,
+                "companyType": 1,
+                "level": 2,
+                "sort": 6,
+                "cateList": []
+              },
+              {
+                "id": 8,
+                "cateName": "牛仔",
+                "parentId": 1,
+                "companyType": 1,
+                "level": 2,
+                "sort": 7,
+                "cateList": []
+              },
+              {
+                "id": 9,
+                "cateName": "裙子",
+                "parentId": 1,
+                "companyType": 1,
+                "level": 2,
+                "sort": 8,
+                "cateList": []
+              },
+              {
+                "id": 10,
+                "cateName": "衬衫",
+                "parentId": 1,
+                "companyType": 1,
+                "level": 2,
+                "sort": 9,
+                "cateList": []
+              },
+              {
+                "id": 11,
+                "cateName": "裤子",
+                "parentId": 1,
+                "companyType": 1,
+                "level": 2,
+                "sort": 10,
+                "cateList": []
+              },
+              {
+                "id": 12,
+                "cateName": "皮革服装",
+                "parentId": 1,
+                "companyType": 1,
+                "level": 2,
+                "sort": 11,
+                "cateList": []
+              },
+              {
+                "id": 13,
+                "cateName": "工作服/制服/校服",
+                "parentId": 1,
+                "companyType": 1,
+                "level": 2,
+                "sort": 12,
+                "cateList": []
+              },
+              {
+                "id": 14,
+                "cateName": "婚纱礼服",
+                "parentId": 1,
+                "companyType": 1,
+                "level": 2,
+                "sort": 13,
+                "cateList": []
+              },
+              {
+                "id": 15,
+                "cateName": "手工定制服装",
+                "parentId": 1,
+                "companyType": 1,
+                "level": 2,
+                "sort": 14,
+                "cateList": []
+              },
+              {
+                "id": 16,
+                "cateName": "其他梭织服装",
+                "parentId": 1,
+                "companyType": 1,
+                "level": 2,
+                "sort": 15,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "cateName": "针织服装",
+            "parentId": 0,
+            "companyType": 1,
+            "level": 1,
+            "sort": 2,
+            "cateList": [
+              {
+                "id": 18,
+                "cateName": "T恤/POLO/卫衣",
+                "parentId": 17,
+                "companyType": 1,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 19,
+                "cateName": "无缝针织服装",
+                "parentId": 17,
+                "companyType": 1,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 20,
+                "cateName": "内衣内裤",
+                "parentId": 17,
+                "companyType": 1,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 21,
+                "cateName": "女士文胸",
+                "parentId": 17,
+                "companyType": 1,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 22,
+                "cateName": "毛衫服装",
+                "parentId": 17,
+                "companyType": 1,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              },
+              {
+                "id": 23,
+                "cateName": "泳装",
+                "parentId": 17,
+                "companyType": 1,
+                "level": 2,
+                "sort": 6,
+                "cateList": []
+              },
+              {
+                "id": 24,
+                "cateName": "针织运动/户外服",
+                "parentId": 17,
+                "companyType": 1,
+                "level": 2,
+                "sort": 7,
+                "cateList": []
+              },
+              {
+                "id": 25,
+                "cateName": "其他针织服装",
+                "parentId": 17,
+                "companyType": 1,
+                "level": 2,
+                "sort": 8,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 26,
+            "cateName": "童装",
+            "parentId": 0,
+            "companyType": 1,
+            "level": 1,
+            "sort": 3,
+            "cateList": [
+              {
+                "id": 27,
+                "cateName": "棉/羽绒服装",
+                "parentId": 26,
+                "companyType": 1,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 28,
+                "cateName": "夹克风衣",
+                "parentId": 26,
+                "companyType": 1,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 29,
+                "cateName": "梭织运动/户外服",
+                "parentId": 26,
+                "companyType": 1,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 30,
+                "cateName": "牛仔",
+                "parentId": 26,
+                "companyType": 1,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 35,
+                "cateName": "裙子",
+                "parentId": 26,
+                "companyType": 1,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              },
+              {
+                "id": 36,
+                "cateName": "衬衫",
+                "parentId": 26,
+                "companyType": 1,
+                "level": 2,
+                "sort": 6,
+                "cateList": []
+              },
+              {
+                "id": 37,
+                "cateName": "裤子",
+                "parentId": 26,
+                "companyType": 1,
+                "level": 2,
+                "sort": 7,
+                "cateList": []
+              },
+              {
+                "id": 38,
+                "cateName": "校服",
+                "parentId": 26,
+                "companyType": 1,
+                "level": 2,
+                "sort": 8,
+                "cateList": []
+              },
+              {
+                "id": 39,
+                "cateName": "T恤/POLO/卫衣",
+                "parentId": 26,
+                "companyType": 1,
+                "level": 2,
+                "sort": 9,
+                "cateList": []
+              },
+              {
+                "id": 40,
+                "cateName": "毛衫服装",
+                "parentId": 26,
+                "companyType": 1,
+                "level": 2,
+                "sort": 10,
+                "cateList": []
+              },
+              {
+                "id": 41,
+                "cateName": "针织运动/户外服",
+                "parentId": 26,
+                "companyType": 1,
+                "level": 2,
+                "sort": 11,
+                "cateList": []
+              },
+              {
+                "id": 42,
+                "cateName": "其他",
+                "parentId": 26,
+                "companyType": 1,
+                "level": 2,
+                "sort": 12,
+                "cateList": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "cateName": "面料",
+        "parentId": null,
+        "companyType": null,
+        "level": null,
+        "sort": null,
+        "cateList": [
+          {
+            "id": 43,
+            "cateName": "化纤面料",
+            "parentId": 0,
+            "companyType": 2,
+            "level": 1,
+            "sort": 4,
+            "cateList": [
+              {
+                "id": 44,
+                "cateName": "涤丝纺",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 45,
+                "cateName": "尼丝纺",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 46,
+                "cateName": "弹力布",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 47,
+                "cateName": "锦涤布",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 48,
+                "cateName": "涤粘布",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              },
+              {
+                "id": 49,
+                "cateName": "尼龙四面弹",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 6,
+                "cateList": []
+              },
+              {
+                "id": 50,
+                "cateName": "涤纶四面弹",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 7,
+                "cateList": []
+              },
+              {
+                "id": 51,
+                "cateName": "牛津布",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 8,
+                "cateList": []
+              },
+              {
+                "id": 52,
+                "cateName": "弹力锦涤",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 9,
+                "cateList": []
+              },
+              {
+                "id": 53,
+                "cateName": "弹力腈纶",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 10,
+                "cateList": []
+              },
+              {
+                "id": 54,
+                "cateName": "弹力涤粘",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 11,
+                "cateList": []
+              },
+              {
+                "id": 55,
+                "cateName": "涤氨",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 12,
+                "cateList": []
+              },
+              {
+                "id": 56,
+                "cateName": "涤塔夫",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 13,
+                "cateList": []
+              },
+              {
+                "id": 57,
+                "cateName": "腈纶",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 14,
+                "cateList": []
+              },
+              {
+                "id": 58,
+                "cateName": "雪纺",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 15,
+                "cateList": []
+              },
+              {
+                "id": 59,
+                "cateName": "欧根纱",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 16,
+                "cateList": []
+              },
+              {
+                "id": 60,
+                "cateName": "塔丝隆",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 17,
+                "cateList": []
+              },
+              {
+                "id": 61,
+                "cateName": "网布",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 18,
+                "cateList": []
+              },
+              {
+                "id": 62,
+                "cateName": "记忆布",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 19,
+                "cateList": []
+              },
+              {
+                "id": 63,
+                "cateName": "麂皮绒",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 20,
+                "cateList": []
+              },
+              {
+                "id": 64,
+                "cateName": "桃皮绒",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 21,
+                "cateList": []
+              },
+              {
+                "id": 65,
+                "cateName": "春亚纺",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 22,
+                "cateList": []
+              },
+              {
+                "id": 66,
+                "cateName": "色丁",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 23,
+                "cateList": []
+              },
+              {
+                "id": 67,
+                "cateName": "其它化纤",
+                "parentId": 43,
+                "companyType": 2,
+                "level": 2,
+                "sort": 24,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 68,
+            "cateName": "棉纺面料",
+            "parentId": 0,
+            "companyType": 2,
+            "level": 1,
+            "sort": 5,
+            "cateList": [
+              {
+                "id": 69,
+                "cateName": "全棉",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 70,
+                "cateName": "棉弹",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 71,
+                "cateName": "纱卡",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 72,
+                "cateName": "弹力棉涤",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 73,
+                "cateName": "弹力涤棉",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              },
+              {
+                "id": 74,
+                "cateName": "弹力锦棉",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 6,
+                "cateList": []
+              },
+              {
+                "id": 75,
+                "cateName": "青年布",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 7,
+                "cateList": []
+              },
+              {
+                "id": 76,
+                "cateName": "仿天丝",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 8,
+                "cateList": []
+              },
+              {
+                "id": 77,
+                "cateName": "府绸",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 9,
+                "cateList": []
+              },
+              {
+                "id": 78,
+                "cateName": "丝棉",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 10,
+                "cateList": []
+              },
+              {
+                "id": 79,
+                "cateName": "棉涤",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 11,
+                "cateList": []
+              },
+              {
+                "id": 80,
+                "cateName": "贡缎",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 12,
+                "cateList": []
+              },
+              {
+                "id": 81,
+                "cateName": "涤锦棉",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 13,
+                "cateList": []
+              },
+              {
+                "id": 82,
+                "cateName": "锦棉布",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 14,
+                "cateList": []
+              },
+              {
+                "id": 83,
+                "cateName": "涤棉粘",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 15,
+                "cateList": []
+              },
+              {
+                "id": 84,
+                "cateName": "帆布",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 16,
+                "cateList": []
+              },
+              {
+                "id": 85,
+                "cateName": "牛仔布",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 17,
+                "cateList": []
+              },
+              {
+                "id": 86,
+                "cateName": "平绒",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 18,
+                "cateList": []
+              },
+              {
+                "id": 87,
+                "cateName": "灯芯绒",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 19,
+                "cateList": []
+              },
+              {
+                "id": 88,
+                "cateName": "巴厘纱",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 20,
+                "cateList": []
+              },
+              {
+                "id": 89,
+                "cateName": "色织格",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 21,
+                "cateList": []
+              },
+              {
+                "id": 90,
+                "cateName": "色织条",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 22,
+                "cateList": []
+              },
+              {
+                "id": 91,
+                "cateName": "法兰绒",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 23,
+                "cateList": []
+              },
+              {
+                "id": 92,
+                "cateName": "其它棉布",
+                "parentId": 68,
+                "companyType": 2,
+                "level": 2,
+                "sort": 24,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 93,
+            "cateName": "毛纺面料",
+            "parentId": 0,
+            "companyType": 2,
+            "level": 1,
+            "sort": 6,
+            "cateList": [
+              {
+                "id": 94,
+                "cateName": "羊毛",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 95,
+                "cateName": "羊绒",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 96,
+                "cateName": "仿羊毛",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 97,
+                "cateName": "毛毡",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 98,
+                "cateName": "羊驼毛",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              },
+              {
+                "id": 99,
+                "cateName": "人造毛绒",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 6,
+                "cateList": []
+              },
+              {
+                "id": 100,
+                "cateName": "立绒",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 7,
+                "cateList": []
+              },
+              {
+                "id": 101,
+                "cateName": "仿兔毛",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 8,
+                "cateList": []
+              },
+              {
+                "id": 102,
+                "cateName": "双面呢",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 9,
+                "cateList": []
+              },
+              {
+                "id": 103,
+                "cateName": "花格呢",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 10,
+                "cateList": []
+              },
+              {
+                "id": 104,
+                "cateName": "大衣呢",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 11,
+                "cateList": []
+              },
+              {
+                "id": 105,
+                "cateName": "顺毛呢",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 12,
+                "cateList": []
+              },
+              {
+                "id": 106,
+                "cateName": "人字呢",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 13,
+                "cateList": []
+              },
+              {
+                "id": 107,
+                "cateName": "毛圈呢",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 14,
+                "cateList": []
+              },
+              {
+                "id": 108,
+                "cateName": "斜纹呢",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 15,
+                "cateList": []
+              },
+              {
+                "id": 109,
+                "cateName": "提花呢",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 16,
+                "cateList": []
+              },
+              {
+                "id": 110,
+                "cateName": "剪花呢",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 17,
+                "cateList": []
+              },
+              {
+                "id": 111,
+                "cateName": "毛腈",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 18,
+                "cateList": []
+              },
+              {
+                "id": 112,
+                "cateName": "毛锦",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 19,
+                "cateList": []
+              },
+              {
+                "id": 113,
+                "cateName": "棉毛",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 20,
+                "cateList": []
+              },
+              {
+                "id": 114,
+                "cateName": "丝毛",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 21,
+                "cateList": []
+              },
+              {
+                "id": 115,
+                "cateName": "毛涤",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 22,
+                "cateList": []
+              },
+              {
+                "id": 116,
+                "cateName": "马海毛",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 23,
+                "cateList": []
+              },
+              {
+                "id": 117,
+                "cateName": "其它毛纺",
+                "parentId": 93,
+                "companyType": 2,
+                "level": 2,
+                "sort": 24,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 118,
+            "cateName": "丝绸面料",
+            "parentId": 0,
+            "companyType": 2,
+            "level": 1,
+            "sort": 7,
+            "cateList": [
+              {
+                "id": 119,
+                "cateName": "纺",
+                "parentId": 118,
+                "companyType": 2,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 120,
+                "cateName": "绸",
+                "parentId": 118,
+                "companyType": 2,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 121,
+                "cateName": "绉",
+                "parentId": 118,
+                "companyType": 2,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 122,
+                "cateName": "缎",
+                "parentId": 118,
+                "companyType": 2,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 123,
+                "cateName": "绢",
+                "parentId": 118,
+                "companyType": 2,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              },
+              {
+                "id": 124,
+                "cateName": "缂",
+                "parentId": 118,
+                "companyType": 2,
+                "level": 2,
+                "sort": 6,
+                "cateList": []
+              },
+              {
+                "id": 125,
+                "cateName": "丝绒",
+                "parentId": 118,
+                "companyType": 2,
+                "level": 2,
+                "sort": 7,
+                "cateList": []
+              },
+              {
+                "id": 126,
+                "cateName": "丝锦绸",
+                "parentId": 118,
+                "companyType": 2,
+                "level": 2,
+                "sort": 8,
+                "cateList": []
+              },
+              {
+                "id": 127,
+                "cateName": "苏罗",
+                "parentId": 118,
+                "companyType": 2,
+                "level": 2,
+                "sort": 9,
+                "cateList": []
+              },
+              {
+                "id": 128,
+                "cateName": "其它丝绸",
+                "parentId": 118,
+                "companyType": 2,
+                "level": 2,
+                "sort": 10,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 129,
+            "cateName": "麻纺面料",
+            "parentId": 0,
+            "companyType": 2,
+            "level": 1,
+            "sort": 8,
+            "cateList": [
+              {
+                "id": 130,
+                "cateName": "亚麻",
+                "parentId": 129,
+                "companyType": 2,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 131,
+                "cateName": "苎麻",
+                "parentId": 129,
+                "companyType": 2,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 132,
+                "cateName": "汉麻",
+                "parentId": 129,
+                "companyType": 2,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 133,
+                "cateName": "棉麻",
+                "parentId": 129,
+                "companyType": 2,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 134,
+                "cateName": "涤麻",
+                "parentId": 129,
+                "companyType": 2,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              },
+              {
+                "id": 135,
+                "cateName": "麻粘",
+                "parentId": 129,
+                "companyType": 2,
+                "level": 2,
+                "sort": 6,
+                "cateList": []
+              },
+              {
+                "id": 136,
+                "cateName": "苎麻棉",
+                "parentId": 129,
+                "companyType": 2,
+                "level": 2,
+                "sort": 7,
+                "cateList": []
+              },
+              {
+                "id": 137,
+                "cateName": "天丝麻",
+                "parentId": 129,
+                "companyType": 2,
+                "level": 2,
+                "sort": 8,
+                "cateList": []
+              },
+              {
+                "id": 138,
+                "cateName": "其它麻纺",
+                "parentId": 129,
+                "companyType": 2,
+                "level": 2,
+                "sort": 9,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 139,
+            "cateName": "针织面料",
+            "parentId": 0,
+            "companyType": 2,
+            "level": 1,
+            "sort": 9,
+            "cateList": [
+              {
+                "id": 140,
+                "cateName": "T恤面料",
+                "parentId": 139,
+                "companyType": 2,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 141,
+                "cateName": "卫衣布",
+                "parentId": 139,
+                "companyType": 2,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 142,
+                "cateName": "珠地布",
+                "parentId": 139,
+                "companyType": 2,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 143,
+                "cateName": "罗纹布",
+                "parentId": 139,
+                "companyType": 2,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 144,
+                "cateName": "蕾丝",
+                "parentId": 139,
+                "companyType": 2,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              },
+              {
+                "id": 145,
+                "cateName": "毛针织",
+                "parentId": 139,
+                "companyType": 2,
+                "level": 2,
+                "sort": 6,
+                "cateList": []
+              },
+              {
+                "id": 146,
+                "cateName": "针织呢",
+                "parentId": 139,
+                "companyType": 2,
+                "level": 2,
+                "sort": 7,
+                "cateList": []
+              },
+              {
+                "id": 147,
+                "cateName": "经编布",
+                "parentId": 139,
+                "companyType": 2,
+                "level": 2,
+                "sort": 8,
+                "cateList": []
+              },
+              {
+                "id": 148,
+                "cateName": "摇粒绒",
+                "parentId": 139,
+                "companyType": 2,
+                "level": 2,
+                "sort": 9,
+                "cateList": []
+              },
+              {
+                "id": 149,
+                "cateName": "汗布",
+                "parentId": 139,
+                "companyType": 2,
+                "level": 2,
+                "sort": 10,
+                "cateList": []
+              },
+              {
+                "id": 150,
+                "cateName": "涤盖棉",
+                "parentId": 139,
+                "companyType": 2,
+                "level": 2,
+                "sort": 11,
+                "cateList": []
+              },
+              {
+                "id": 151,
+                "cateName": "CVC",
+                "parentId": 139,
+                "companyType": 2,
+                "level": 2,
+                "sort": 12,
+                "cateList": []
+              },
+              {
+                "id": 152,
+                "cateName": "棉毛布",
+                "parentId": 139,
+                "companyType": 2,
+                "level": 2,
+                "sort": 13,
+                "cateList": []
+              },
+              {
+                "id": 153,
+                "cateName": "毛圈布",
+                "parentId": 139,
+                "companyType": 2,
+                "level": 2,
+                "sort": 14,
+                "cateList": []
+              },
+              {
+                "id": 154,
+                "cateName": "空气层",
+                "parentId": 139,
+                "companyType": 2,
+                "level": 2,
+                "sort": 15,
+                "cateList": []
+              },
+              {
+                "id": 155,
+                "cateName": "毛针织",
+                "parentId": 139,
+                "companyType": 2,
+                "level": 2,
+                "sort": 16,
+                "cateList": []
+              },
+              {
+                "id": 156,
+                "cateName": "针织呢",
+                "parentId": 139,
+                "companyType": 2,
+                "level": 2,
+                "sort": 17,
+                "cateList": []
+              },
+              {
+                "id": 157,
+                "cateName": "其他针织",
+                "parentId": 139,
+                "companyType": 2,
+                "level": 2,
+                "sort": 18,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 158,
+            "cateName": "皮/革",
+            "parentId": 0,
+            "companyType": 2,
+            "level": 1,
+            "sort": 10,
+            "cateList": [
+              {
+                "id": 159,
+                "cateName": "羊皮",
+                "parentId": 158,
+                "companyType": 2,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 160,
+                "cateName": "牛皮",
+                "parentId": 158,
+                "companyType": 2,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 161,
+                "cateName": "猪皮",
+                "parentId": 158,
+                "companyType": 2,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 162,
+                "cateName": "鳄鱼皮",
+                "parentId": 158,
+                "companyType": 2,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 163,
+                "cateName": "再生皮",
+                "parentId": 158,
+                "companyType": 2,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              },
+              {
+                "id": 164,
+                "cateName": "人造革",
+                "parentId": 158,
+                "companyType": 2,
+                "level": 2,
+                "sort": 6,
+                "cateList": []
+              },
+              {
+                "id": 165,
+                "cateName": "合成革",
+                "parentId": 158,
+                "companyType": 2,
+                "level": 2,
+                "sort": 7,
+                "cateList": []
+              },
+              {
+                "id": 166,
+                "cateName": "其他皮革",
+                "parentId": 158,
+                "companyType": 2,
+                "level": 2,
+                "sort": 8,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 167,
+            "cateName": "再生纤维",
+            "parentId": 0,
+            "companyType": 2,
+            "level": 1,
+            "sort": 11,
+            "cateList": [
+              {
+                "id": 168,
+                "cateName": "黏胶",
+                "parentId": 167,
+                "companyType": 2,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 169,
+                "cateName": "莱赛尔纤维(天丝)",
+                "parentId": 167,
+                "companyType": 2,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 170,
+                "cateName": "莫代尔",
+                "parentId": 167,
+                "companyType": 2,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 171,
+                "cateName": "铜氨纤维",
+                "parentId": 167,
+                "companyType": 2,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 172,
+                "cateName": "醋酸",
+                "parentId": 167,
+                "companyType": 2,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              },
+              {
+                "id": 173,
+                "cateName": "三醋酸",
+                "parentId": 167,
+                "companyType": 2,
+                "level": 2,
+                "sort": 6,
+                "cateList": []
+              },
+              {
+                "id": 174,
+                "cateName": "竹纤维",
+                "parentId": 167,
+                "companyType": 2,
+                "level": 2,
+                "sort": 7,
+                "cateList": []
+              },
+              {
+                "id": 175,
+                "cateName": "甲壳素纤维",
+                "parentId": 167,
+                "companyType": 2,
+                "level": 2,
+                "sort": 8,
+                "cateList": []
+              },
+              {
+                "id": 176,
+                "cateName": "大豆蛋白纤维",
+                "parentId": 167,
+                "companyType": 2,
+                "level": 2,
+                "sort": 9,
+                "cateList": []
+              },
+              {
+                "id": 177,
+                "cateName": "牛奶蛋白纤维",
+                "parentId": 167,
+                "companyType": 2,
+                "level": 2,
+                "sort": 10,
+                "cateList": []
+              },
+              {
+                "id": 178,
+                "cateName": "玫瑰纤维",
+                "parentId": 167,
+                "companyType": 2,
+                "level": 2,
+                "sort": 11,
+                "cateList": []
+              },
+              {
+                "id": 179,
+                "cateName": "其他再生纤维面料",
+                "parentId": 167,
+                "companyType": 2,
+                "level": 2,
+                "sort": 12,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 180,
+            "cateName": "其他面料",
+            "parentId": 0,
+            "companyType": 2,
+            "level": 1,
+            "sort": 12,
+            "cateList": [
+              {
+                "id": 181,
+                "cateName": "无纺布",
+                "parentId": 180,
+                "companyType": 2,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 182,
+                "cateName": "复合面料",
+                "parentId": 180,
+                "companyType": 2,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 183,
+                "cateName": "其他面料",
+                "parentId": 180,
+                "companyType": 2,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "cateName": "辅料",
+        "parentId": null,
+        "companyType": null,
+        "level": null,
+        "sort": null,
+        "cateList": [
+          {
+            "id": 184,
+            "cateName": "纽扣",
+            "parentId": 0,
+            "companyType": 3,
+            "level": 1,
+            "sort": 13,
+            "cateList": [
+              {
+                "id": 185,
+                "cateName": "金属扣",
+                "parentId": 184,
+                "companyType": 3,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 186,
+                "cateName": "树脂扣",
+                "parentId": 184,
+                "companyType": 3,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 187,
+                "cateName": "四合扣",
+                "parentId": 184,
+                "companyType": 3,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 188,
+                "cateName": "工字扣",
+                "parentId": 184,
+                "companyType": 3,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 189,
+                "cateName": "包布扣",
+                "parentId": 184,
+                "companyType": 3,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              },
+              {
+                "id": 190,
+                "cateName": "气眼",
+                "parentId": 184,
+                "companyType": 3,
+                "level": 2,
+                "sort": 6,
+                "cateList": []
+              },
+              {
+                "id": 191,
+                "cateName": "插扣",
+                "parentId": 184,
+                "companyType": 3,
+                "level": 2,
+                "sort": 7,
+                "cateList": []
+              },
+              {
+                "id": 192,
+                "cateName": "档扣",
+                "parentId": 184,
+                "companyType": 3,
+                "level": 2,
+                "sort": 8,
+                "cateList": []
+              },
+              {
+                "id": 193,
+                "cateName": "圆形环",
+                "parentId": 184,
+                "companyType": 3,
+                "level": 2,
+                "sort": 9,
+                "cateList": []
+              },
+              {
+                "id": 194,
+                "cateName": "绳扣",
+                "parentId": 184,
+                "companyType": 3,
+                "level": 2,
+                "sort": 10,
+                "cateList": []
+              },
+              {
+                "id": 195,
+                "cateName": "吊钟",
+                "parentId": 184,
+                "companyType": 3,
+                "level": 2,
+                "sort": 11,
+                "cateList": []
+              },
+              {
+                "id": 196,
+                "cateName": "葫芦扣",
+                "parentId": 184,
+                "companyType": 3,
+                "level": 2,
+                "sort": 12,
+                "cateList": []
+              },
+              {
+                "id": 197,
+                "cateName": "挂钩",
+                "parentId": 184,
+                "companyType": 3,
+                "level": 2,
+                "sort": 13,
+                "cateList": []
+              },
+              {
+                "id": 198,
+                "cateName": "五爪扣",
+                "parentId": 184,
+                "companyType": 3,
+                "level": 2,
+                "sort": 14,
+                "cateList": []
+              },
+              {
+                "id": 199,
+                "cateName": "珠片扣",
+                "parentId": 184,
+                "companyType": 3,
+                "level": 2,
+                "sort": 15,
+                "cateList": []
+              },
+              {
+                "id": 200,
+                "cateName": "其他",
+                "parentId": 184,
+                "companyType": 3,
+                "level": 2,
+                "sort": 16,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 201,
+            "cateName": "商标",
+            "parentId": 0,
+            "companyType": 3,
+            "level": 1,
+            "sort": 14,
+            "cateList": [
+              {
+                "id": 202,
+                "cateName": "织唛",
+                "parentId": 201,
+                "companyType": 3,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 203,
+                "cateName": "吊牌",
+                "parentId": 201,
+                "companyType": 3,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 204,
+                "cateName": "印唛",
+                "parentId": 201,
+                "companyType": 3,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 205,
+                "cateName": "洗水唛",
+                "parentId": 201,
+                "companyType": 3,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 206,
+                "cateName": "尺码唛",
+                "parentId": 201,
+                "companyType": 3,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              },
+              {
+                "id": 207,
+                "cateName": "皮标",
+                "parentId": 201,
+                "companyType": 3,
+                "level": 2,
+                "sort": 6,
+                "cateList": []
+              },
+              {
+                "id": 208,
+                "cateName": "吊粒",
+                "parentId": 201,
+                "companyType": 3,
+                "level": 2,
+                "sort": 7,
+                "cateList": []
+              },
+              {
+                "id": 209,
+                "cateName": "胶章",
+                "parentId": 201,
+                "companyType": 3,
+                "level": 2,
+                "sort": 8,
+                "cateList": []
+              },
+              {
+                "id": 210,
+                "cateName": "绣花章",
+                "parentId": 201,
+                "companyType": 3,
+                "level": 2,
+                "sort": 9,
+                "cateList": []
+              },
+              {
+                "id": 211,
+                "cateName": "其他商标",
+                "parentId": 201,
+                "companyType": 3,
+                "level": 2,
+                "sort": 10,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 212,
+            "cateName": "花边",
+            "parentId": 0,
+            "companyType": 3,
+            "level": 1,
+            "sort": 15,
+            "cateList": [
+              {
+                "id": 213,
+                "cateName": "机织花边",
+                "parentId": 212,
+                "companyType": 3,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 214,
+                "cateName": "针织花边",
+                "parentId": 212,
+                "companyType": 3,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 215,
+                "cateName": "刺绣花边",
+                "parentId": 212,
+                "companyType": 3,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 216,
+                "cateName": "编织花边",
+                "parentId": 212,
+                "companyType": 3,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 217,
+                "cateName": "水溶花边",
+                "parentId": 212,
+                "companyType": 3,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              },
+              {
+                "id": 218,
+                "cateName": "蕾丝花边",
+                "parentId": 212,
+                "companyType": 3,
+                "level": 2,
+                "sort": 6,
+                "cateList": []
+              },
+              {
+                "id": 219,
+                "cateName": "弹力花边",
+                "parentId": 212,
+                "companyType": 3,
+                "level": 2,
+                "sort": 7,
+                "cateList": []
+              },
+              {
+                "id": 220,
+                "cateName": "手工花边",
+                "parentId": 212,
+                "companyType": 3,
+                "level": 2,
+                "sort": 8,
+                "cateList": []
+              },
+              {
+                "id": 221,
+                "cateName": "亮片秀花边",
+                "parentId": 212,
+                "companyType": 3,
+                "level": 2,
+                "sort": 9,
+                "cateList": []
+              },
+              {
+                "id": 222,
+                "cateName": "窗帘花边",
+                "parentId": 212,
+                "companyType": 3,
+                "level": 2,
+                "sort": 10,
+                "cateList": []
+              },
+              {
+                "id": 223,
+                "cateName": "民族花边",
+                "parentId": 212,
+                "companyType": 3,
+                "level": 2,
+                "sort": 11,
+                "cateList": []
+              },
+              {
+                "id": 224,
+                "cateName": "其他花边",
+                "parentId": 212,
+                "companyType": 3,
+                "level": 2,
+                "sort": 12,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 225,
+            "cateName": "腰带",
+            "parentId": 0,
+            "companyType": 3,
+            "level": 1,
+            "sort": 16,
+            "cateList": [
+              {
+                "id": 226,
+                "cateName": "真皮腰带",
+                "parentId": 225,
+                "companyType": 3,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 227,
+                "cateName": "假皮腰带",
+                "parentId": 225,
+                "companyType": 3,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 228,
+                "cateName": "编织腰带",
+                "parentId": 225,
+                "companyType": 3,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 229,
+                "cateName": "其他腰带",
+                "parentId": 225,
+                "companyType": 3,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 230,
+            "cateName": "拉链",
+            "parentId": 0,
+            "companyType": 3,
+            "level": 1,
+            "sort": 17,
+            "cateList": [
+              {
+                "id": 231,
+                "cateName": "尼龙拉链",
+                "parentId": 230,
+                "companyType": 3,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 232,
+                "cateName": "树脂拉链",
+                "parentId": 230,
+                "companyType": 3,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 233,
+                "cateName": "金属拉链",
+                "parentId": 230,
+                "companyType": 3,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 234,
+                "cateName": "压塑拉链",
+                "parentId": 230,
+                "companyType": 3,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 235,
+                "cateName": "隐形拉链",
+                "parentId": 230,
+                "companyType": 3,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              },
+              {
+                "id": 236,
+                "cateName": "防水拉链",
+                "parentId": 230,
+                "companyType": 3,
+                "level": 2,
+                "sort": 6,
+                "cateList": []
+              },
+              {
+                "id": 237,
+                "cateName": "拉链头",
+                "parentId": 230,
+                "companyType": 3,
+                "level": 2,
+                "sort": 7,
+                "cateList": []
+              },
+              {
+                "id": 238,
+                "cateName": "码带",
+                "parentId": 230,
+                "companyType": 3,
+                "level": 2,
+                "sort": 8,
+                "cateList": []
+              },
+              {
+                "id": 239,
+                "cateName": "其他拉链",
+                "parentId": 230,
+                "companyType": 3,
+                "level": 2,
+                "sort": 9,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 240,
+            "cateName": "配饰",
+            "parentId": 0,
+            "companyType": 3,
+            "level": 1,
+            "sort": 18,
+            "cateList": [
+              {
+                "id": 241,
+                "cateName": "烫钻",
+                "parentId": 240,
+                "companyType": 3,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 242,
+                "cateName": "珠片",
+                "parentId": 240,
+                "companyType": 3,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 243,
+                "cateName": "亚克力",
+                "parentId": 240,
+                "companyType": 3,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 244,
+                "cateName": "刺绣",
+                "parentId": 240,
+                "companyType": 3,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 245,
+                "cateName": "挂件",
+                "parentId": 240,
+                "companyType": 3,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              },
+              {
+                "id": 246,
+                "cateName": "贝壳",
+                "parentId": 240,
+                "companyType": 3,
+                "level": 2,
+                "sort": 6,
+                "cateList": []
+              },
+              {
+                "id": 247,
+                "cateName": "爪石",
+                "parentId": 240,
+                "companyType": 3,
+                "level": 2,
+                "sort": 7,
+                "cateList": []
+              },
+              {
+                "id": 248,
+                "cateName": "水钻",
+                "parentId": 240,
+                "companyType": 3,
+                "level": 2,
+                "sort": 8,
+                "cateList": []
+              },
+              {
+                "id": 249,
+                "cateName": "网钻",
+                "parentId": 240,
+                "companyType": 3,
+                "level": 2,
+                "sort": 9,
+                "cateList": []
+              },
+              {
+                "id": 250,
+                "cateName": "水晶类",
+                "parentId": 240,
+                "companyType": 3,
+                "level": 2,
+                "sort": 10,
+                "cateList": []
+              },
+              {
+                "id": 251,
+                "cateName": "帽钟",
+                "parentId": 240,
+                "companyType": 3,
+                "level": 2,
+                "sort": 11,
+                "cateList": []
+              },
+              {
+                "id": 252,
+                "cateName": "八角片",
+                "parentId": 240,
+                "companyType": 3,
+                "level": 2,
+                "sort": 12,
+                "cateList": []
+              },
+              {
+                "id": 253,
+                "cateName": "滴胶珠",
+                "parentId": 240,
+                "companyType": 3,
+                "level": 2,
+                "sort": 13,
+                "cateList": []
+              },
+              {
+                "id": 254,
+                "cateName": "半圆珠",
+                "parentId": 240,
+                "companyType": 3,
+                "level": 2,
+                "sort": 14,
+                "cateList": []
+              },
+              {
+                "id": 255,
+                "cateName": "石类",
+                "parentId": 240,
+                "companyType": 3,
+                "level": 2,
+                "sort": 15,
+                "cateList": []
+              },
+              {
+                "id": 256,
+                "cateName": "其他配饰",
+                "parentId": 240,
+                "companyType": 3,
+                "level": 2,
+                "sort": 16,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 257,
+            "cateName": "织带、绳",
+            "parentId": 0,
+            "companyType": 3,
+            "level": 1,
+            "sort": 19,
+            "cateList": [
+              {
+                "id": 258,
+                "cateName": "常规织带",
+                "parentId": 257,
+                "companyType": 3,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 259,
+                "cateName": "印花带",
+                "parentId": 257,
+                "companyType": 3,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 260,
+                "cateName": "松紧带",
+                "parentId": 257,
+                "companyType": 3,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 261,
+                "cateName": "绳",
+                "parentId": 257,
+                "companyType": 3,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 262,
+                "cateName": "其他带绳线",
+                "parentId": 257,
+                "companyType": 3,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 263,
+            "cateName": "线",
+            "parentId": 0,
+            "companyType": 3,
+            "level": 1,
+            "sort": 20,
+            "cateList": [
+              {
+                "id": 264,
+                "cateName": "纱线",
+                "parentId": 263,
+                "companyType": 3,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 265,
+                "cateName": "缝纫线",
+                "parentId": 263,
+                "companyType": 3,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 266,
+                "cateName": "珠片带",
+                "parentId": 263,
+                "companyType": 3,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 267,
+                "cateName": "丝带",
+                "parentId": 263,
+                "companyType": 3,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 268,
+                "cateName": "涤纶线",
+                "parentId": 263,
+                "companyType": 3,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              },
+              {
+                "id": 269,
+                "cateName": "鱼丝线",
+                "parentId": 263,
+                "companyType": 3,
+                "level": 2,
+                "sort": 6,
+                "cateList": []
+              },
+              {
+                "id": 270,
+                "cateName": "尼龙线",
+                "parentId": 263,
+                "companyType": 3,
+                "level": 2,
+                "sort": 7,
+                "cateList": []
+              },
+              {
+                "id": 271,
+                "cateName": "高强线",
+                "parentId": 263,
+                "companyType": 3,
+                "level": 2,
+                "sort": 8,
+                "cateList": []
+              },
+              {
+                "id": 272,
+                "cateName": "绣花线",
+                "parentId": 263,
+                "companyType": 3,
+                "level": 2,
+                "sort": 9,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 273,
+            "cateName": "皮毛、羽毛",
+            "parentId": 0,
+            "companyType": 3,
+            "level": 1,
+            "sort": 21,
+            "cateList": [
+              {
+                "id": 274,
+                "cateName": "人造皮毛",
+                "parentId": 273,
+                "companyType": 3,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 275,
+                "cateName": "动物皮毛",
+                "parentId": 273,
+                "companyType": 3,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 276,
+                "cateName": "其他皮毛",
+                "parentId": 273,
+                "companyType": 3,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 277,
+                "cateName": "羽毛",
+                "parentId": 273,
+                "companyType": 3,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 278,
+                "cateName": "羽毛制品",
+                "parentId": 273,
+                "companyType": 3,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 279,
+            "cateName": "衣架",
+            "parentId": 0,
+            "companyType": 3,
+            "level": 1,
+            "sort": 22,
+            "cateList": [
+              {
+                "id": 280,
+                "cateName": "木衣架",
+                "parentId": 279,
+                "companyType": 3,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 281,
+                "cateName": "塑料衣架",
+                "parentId": 279,
+                "companyType": 3,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 282,
+                "cateName": "金属衣架",
+                "parentId": 279,
+                "companyType": 3,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 283,
+                "cateName": "裤架",
+                "parentId": 279,
+                "companyType": 3,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 284,
+                "cateName": "模特架",
+                "parentId": 279,
+                "companyType": 3,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              },
+              {
+                "id": 285,
+                "cateName": "展示架",
+                "parentId": 279,
+                "companyType": 3,
+                "level": 2,
+                "sort": 6,
+                "cateList": []
+              },
+              {
+                "id": 286,
+                "cateName": "其他衣架",
+                "parentId": 279,
+                "companyType": 3,
+                "level": 2,
+                "sort": 7,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 287,
+            "cateName": "衬料",
+            "parentId": 0,
+            "companyType": 3,
+            "level": 1,
+            "sort": 23,
+            "cateList": [
+              {
+                "id": 288,
+                "cateName": "里布",
+                "parentId": 287,
+                "companyType": 3,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 289,
+                "cateName": "粘合衬",
+                "parentId": 287,
+                "companyType": 3,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 290,
+                "cateName": "嵌条",
+                "parentId": 287,
+                "companyType": 3,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 291,
+                "cateName": "衬布",
+                "parentId": 287,
+                "companyType": 3,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 292,
+                "cateName": "垫肩",
+                "parentId": 287,
+                "companyType": 3,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              },
+              {
+                "id": 293,
+                "cateName": "网布",
+                "parentId": 287,
+                "companyType": 3,
+                "level": 2,
+                "sort": 6,
+                "cateList": []
+              },
+              {
+                "id": 294,
+                "cateName": "罩杯/胸垫",
+                "parentId": 287,
+                "companyType": 3,
+                "level": 2,
+                "sort": 7,
+                "cateList": []
+              },
+              {
+                "id": 295,
+                "cateName": "填充物",
+                "parentId": 287,
+                "companyType": 3,
+                "level": 2,
+                "sort": 8,
+                "cateList": []
+              },
+              {
+                "id": 296,
+                "cateName": "其他衬料",
+                "parentId": 287,
+                "companyType": 3,
+                "level": 2,
+                "sort": 9,
+                "cateList": []
+              }
+            ]
+          },
+          {
+            "id": 297,
+            "cateName": "其他服装辅料",
+            "parentId": 0,
+            "companyType": 3,
+            "level": 1,
+            "sort": 24,
+            "cateList": [
+              {
+                "id": 298,
+                "cateName": "胶带",
+                "parentId": 297,
+                "companyType": 3,
+                "level": 2,
+                "sort": 1,
+                "cateList": []
+              },
+              {
+                "id": 299,
+                "cateName": "魔术贴",
+                "parentId": 297,
+                "companyType": 3,
+                "level": 2,
+                "sort": 2,
+                "cateList": []
+              },
+              {
+                "id": 300,
+                "cateName": "包装盒",
+                "parentId": 297,
+                "companyType": 3,
+                "level": 2,
+                "sort": 3,
+                "cateList": []
+              },
+              {
+                "id": 301,
+                "cateName": "包装袋",
+                "parentId": 297,
+                "companyType": 3,
+                "level": 2,
+                "sort": 4,
+                "cateList": []
+              },
+              {
+                "id": 302,
+                "cateName": "手提袋",
+                "parentId": 297,
+                "companyType": 3,
+                "level": 2,
+                "sort": 5,
+                "cateList": []
+              },
+              {
+                "id": 303,
+                "cateName": "包装箱",
+                "parentId": 297,
+                "companyType": 3,
+                "level": 2,
+                "sort": 6,
+                "cateList": []
+              },
+              {
+                "id": 304,
+                "cateName": "干燥剂",
+                "parentId": 297,
+                "companyType": 3,
+                "level": 2,
+                "sort": 7,
+                "cateList": []
+              },
+              {
+                "id": 305,
+                "cateName": "胶枪",
+                "parentId": 297,
+                "companyType": 3,
+                "level": 2,
+                "sort": 8,
+                "cateList": []
+              },
+              {
+                "id": 312,
+                "cateName": "热熔胶条",
+                "parentId": 297,
+                "companyType": 3,
+                "level": 2,
+                "sort": 9,
+                "cateList": []
+              },
+              {
+                "id": 313,
+                "cateName": "热熔胶膜",
+                "parentId": 297,
+                "companyType": 3,
+                "level": 2,
+                "sort": 10,
+                "cateList": []
+              },
+              {
+                "id": 314,
+                "cateName": "胶针",
+                "parentId": 297,
+                "companyType": 3,
+                "level": 2,
+                "sort": 11,
+                "cateList": []
+              },
+              {
+                "id": 315,
+                "cateName": "打针枪",
+                "parentId": 297,
+                "companyType": 3,
+                "level": 2,
+                "sort": 12,
+                "cateList": []
+              },
+              {
+                "id": 316,
+                "cateName": "胶水",
+                "parentId": 297,
+                "companyType": 3,
+                "level": 2,
+                "sort": 13,
+                "cateList": []
+              },
+              {
+                "id": 317,
+                "cateName": "其他",
+                "parentId": 297,
+                "companyType": 3,
+                "level": 2,
+                "sort": 14,
+                "cateList": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
